@@ -7,7 +7,7 @@ Welcome to my portfolio repository! This project showcases my skills and project
 Technologies Here are some of the key technologies and tools I have worked with:
 
 Programming Languages:
-JavaScript,HTML5 & CSS3,MongoDB,NodeJS and reactJS
+JavaScript,HTML5 & CSS3,MongoDB,NodeJS
 
 Frameworks: React
 
