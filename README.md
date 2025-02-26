@@ -33,3 +33,11 @@ Install any dependencies (if applicable):
 bash
 
 npm install
+
+usage
+
+  -Install vite+react  
+
+  -npm install
+
+  -npm run dev
