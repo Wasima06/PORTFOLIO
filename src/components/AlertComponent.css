@@ -1,19 +1,4 @@
-/* AlertComponent.css 
-.button {
-    background-color: rgb(253, 200, 208);
-    color: rgb(0, 0, 0);
-    border: none;
-    padding: 10px 20px;
-    border: inset;
-    position: relative;
-    left:1250px;
-    bottom:250px;
-    border-radius: 5px;
-    cursor: pointer;
-    margin: 10px;
-  }*/
 
-  /* AlertComponent.css */
 .button {
   background-color: rgb(253, 200, 208); 
   color: black; /* White text */

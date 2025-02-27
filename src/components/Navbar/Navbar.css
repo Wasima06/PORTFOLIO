@@ -66,10 +66,6 @@ header{
     font-size: 15px;
     cursor:alias;
 }
-/*.nav-menu:hover{
-    transform: scale(1.01);
-}*/
-
 .nav-connect1{
     background-color:rgb(5, 5, 49) ;
     position: relative;
