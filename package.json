@@ -12,7 +12,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "sass": "^1.32.8",
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
     "@mui/icons-material": "^6.4.5",
@@ -28,7 +27,9 @@
     "react": "^18.3.1",
     "react-anchor-link-smooth-scroll": "^1.0.12",
     "react-dom": "^18.3.1",
-    "react-toastify": "^11.0.3"
+    "react-tilt": "^1.0.2",
+    "react-toastify": "^11.0.3",
+    "sass": "^1.32.8"
   },
   "devDependencies": {
     "@eslint/js": "^9.17.0",
