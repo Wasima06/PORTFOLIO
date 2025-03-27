@@ -21,7 +21,9 @@ Clone the repository:
 
 bash
 
-git clone [https://github.com/Wasima06/My_Portfolio.git](https://github.com/Wasima06/PORTFOLIO.git)
+git clone 
+
+[https://github.com/Wasima06/My_Portfolio.git](https://github.com/Wasima06/PORTFOLIO.git)
 
 Navigate to the project directory:
 
